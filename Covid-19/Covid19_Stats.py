@@ -1,6 +1,6 @@
 """
 Program name: Covid19_Stats
-Author: *REDACTED*
+Author: Ricardo Lopes
 Original Release Date: 06/04/20
 Latest Build Release Date: 07/04/2020
 Build: 2.0
